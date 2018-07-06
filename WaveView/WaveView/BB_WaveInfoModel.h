@@ -2,7 +2,7 @@
 //  BB_WaveInfoModel.h
 //  demo
 //
-//  Created by 汇数 on 2018/6/4.
+//  Created by BigBear on 2018/6/4.
 //  Copyright © 2018年 BigBear. All rights reserved.
 //
 
